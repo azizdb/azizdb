@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **C(STM32) Programming**
 
-- 🌱 I’m currently learning **C++, Phyton and SQL**
+- 🌱 I’m currently learning **C++ and SQL**
 
 - 📫 How to reach me **m.azizdemirbilek@gmail.com**
 
