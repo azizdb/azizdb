@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm azizdb</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on **C(STM32) Programming**
 
